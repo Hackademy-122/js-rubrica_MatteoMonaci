@@ -1,0 +1,11 @@
+.contactCard {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0px;
+    border: 1px solid #d3d3d3;
+    border-radius: 10px;
+}
+
+.contactCard p {
+    margin: 0;
+}
